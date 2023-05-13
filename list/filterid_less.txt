@@ -4,8 +4,11 @@ https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 # ABPindo
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 
-# AdBlocker Ultimate
-https://filters.adavoid.org/ultimate-ad-filter.txt
-
 # AdGuard Base filter + EasyList
 https://filters.adtidy.org/extension/ublock/filters/2.txt
+
+# AdGuard Tracking Protection
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+
+# Combined Privacy Block Lists
+https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/MiniLists/cpbl-abp-mini.txt
